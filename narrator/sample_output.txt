@@ -1,0 +1,8 @@
+Situation:
+      Mamaearth’s cleaned revenue is ₹97358.3, compared with a raw total of ₹99860.2. The difference of ₹2501.9 comes entirely from duplicate orders removed during data cleaning. Payment‑method analysis shows return rates of 44.4% for COD, 14.7% for Card, and 18.9% for UPI.
+
+      Complication:
+      Risk is not evenly distributed. COD orders in Tier‑2 cities return at 54.5%, far higher than Tier‑1 COD orders. Time‑series analysis also reveals that January’s apparent revenue of ₹29582.1 was inflated by two bulk outlier orders, with corrected revenue only ₹11637.1.
+
+      Resolution:
+      Once outliers are removed, March emerges as the true peak month with ₹20318.9. These verified metrics provide a stable foundation for operational decisions, targeted return‑rate interventions, and more accurate monthly performance reporting.
