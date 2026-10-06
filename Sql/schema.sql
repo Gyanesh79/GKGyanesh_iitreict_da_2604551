@@ -1,6 +1,9 @@
-CREATE DATABASE `mamaearth` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
 
-use capstone_project;
+use mamaearth;
+
+DROP TABLE IF EXISTS orders;
+DROP TABLE IF EXISTS customers;
+DROP TABLE IF EXISTS products;
 
 CREATE TABLE customers
 (
